@@ -19,8 +19,8 @@ The "Triple Peaks Coffee Shop" project is the second project in the TripleTen So
 2. Create an infinite animation to the header logo for the arcs which will rotate in a circle hiding in the second half of the circle.
 3. Instead of 'o' in header title- Specialty coffee we can add coffee bean with steam animation above it.
 
-   # Deployment
+# Deployment
 
-   The project is deployed and accessible via the following link:
+The project is deployed and accessible via the following link:
 
 https://kreker911.github.io/se_project_coffeeshop/
