@@ -30,4 +30,4 @@ The "Triple Peaks Coffee Shop" project is the second project in the TripleTen So
 
 The project is deployed and accessible via the following link:
 
-https://kreker911.github.io/se_project_coffeeshop/
+https://ilyamukhamedov.github.io/se_project_coffeeshop/
